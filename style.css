@@ -42,3 +42,7 @@ body {
     background: #74ff3b;
     color: #111;
 }
+
+.calculator span:hover {
+    cursor: pointer;
+}
